@@ -29,7 +29,7 @@
       <th>[AS-IS] 산출 점수 (Score)</th>
       <th>[TO-BE] 상황별 감성</th>
       <th>[TO-BE] 산출 점수 (Score)</th>
-      <th>리스크 감소율 (개선 효율)</th>
+      <th>리스크 감소율 <br> (개선 효율)</th>
     </tr>
   </thead>
   <tbody>
@@ -80,7 +80,7 @@
       <th>[AS-IS] 산출 점수 (Score)</th>
       <th>[TO-BE] 상황별 감성</th>
       <th>[TO-BE] 산출 점수 (Score)</th>
-      <th>리스크 감소율 (개선 효율)</th>
+      <th>리스크 감소율 <br> (개선 효율)</th>
     </tr>
   </thead>
   <tbody>
@@ -131,7 +131,7 @@
       <th>[AS-IS] 산출 점수 (Score)</th>
       <th>[TO-BE] 상황별 감성</th>
       <th>[TO-BE] 산출 점수 (Score)</th>
-      <th>리스크 감소율 (개선 효율)</th>
+      <th>리스크 감소율 <br> (개선 효율)</th>
     </tr>
   </thead>
   <tbody>
